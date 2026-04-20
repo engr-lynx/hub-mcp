@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
    Copyright 2025 Docker Hub MCP Server authors
 

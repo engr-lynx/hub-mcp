@@ -1,8 +1,11 @@
 {
     "name": "dockerhub-mcp-server",
-    "version": "1.0.0-toolkit.1",
+    "version": "1.0.0-toolkit.2",
     "description": "MCP Server that dynamically generates tools from OpenAPI specifications",
     "main": "dist/index.js",
+    "bin": {
+        "dockerhub-mcp-server": "dist/index.js"
+    },
     "scripts": {
         "build": "tsc",
         "start": "node dist/index.js",
