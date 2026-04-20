@@ -1,6 +1,6 @@
 {
     "name": "dockerhub-mcp-server",
-    "version": "1.0.0",
+    "version": "1.0.0-toolkit.1",
     "description": "MCP Server that dynamically generates tools from OpenAPI specifications",
     "main": "dist/index.js",
     "scripts": {
